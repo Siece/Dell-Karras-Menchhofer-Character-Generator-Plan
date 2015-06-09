@@ -1,0 +1,154 @@
+Barn
+Chicken coop or chickenhouse
+Cow-shed
+Farmhouse
+Granary, Hórreo
+Greenhouse
+Hayloft
+Pigpen or sty
+Root cellar
+Shed
+Silo
+Stable
+Storm cellar
+Well house
+Underground pit
+Automobile repair shop
+Bank
+Car wash
+Convention center
+Forum
+Gas station
+Hotel
+Market
+Market house
+Skyscraper
+Shop
+Shopping mall
+Supermarket
+Warehouse
+Restaurant
+Apartment block
+Asylum
+Condominium
+Dormitory
+Duplex
+Nursing home
+Townhouse
+Villa
+Bungalow
+Archive
+College
+Classroom building
+Gymnasium
+Students' union
+School
+Library
+Museum
+Art gallery
+Theater (building)
+Amphitheater
+Concert hall
+Cinema
+Opera house
+Boarding schools
+Capitol
+City hall
+Consulate
+Courthouse
+Embassy
+Fire station
+Meeting house
+Moot hall
+Palace
+Parliament
+Police station
+Post office
+Prison
+Brewery
+Factory
+Foundry
+Power plant
+Mill
+Watermill
+Wind mill
+Horse mill
+Tide mill
+Arsenal
+Barracks
+Bunker
+Blockhouse
+Castle
+Citadel
+Fortification:
+Fortifications
+Boathouse
+Garage
+Hangar, of aircraft or spacecraft
+Storage silo
+Church
+Basilica
+Cathedral
+Duomo
+Chapel
+Oratory
+Martyrium
+Mosque
+Mihrab
+Surau
+Imambargah
+Monastery
+Mithraeum
+Fire temple
+Pyramid
+Shrine
+Synagogue
+Temple
+Pagoda
+Gurdwara
+Hindu temples
+Airport terminal
+Bus station
+Metro (subway, underground) station
+Taxi station
+Train station
+Signal box
+Lighthouse
+Parking garage
+Infrastructure
+Data centre
+Fossil-fuel power station
+Nuclear power plant
+Geothermal power
+Biomass-fuelled power plant
+Waste heat power plant
+Renewable energy power station
+Atomic energy plant
+Apartment
+Bakery
+Bookstore or bookshop
+Clinic
+Community hall
+Department store
+Eatery
+Fast-food restaurant
+Floristry
+Folly
+Food court
+Hospice
+Hospital
+Hut
+Hypermarket
+Low-energy buildings
+Mini market
+Office building
+Pizzeria
+Plant nursery
+Bathhouse
+Skyscraper
+Stall
+Sport club
+Vet
+Wet market
+Workshop
+World trade centre
